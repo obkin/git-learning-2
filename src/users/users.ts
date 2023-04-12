@@ -5,7 +5,11 @@ export class App {
         this.a = a;
     }
 
-    newFunc() {
+    newFunc1() {
+
+    }
+
+    newFunc2() {
         
     }
 }
