@@ -1,6 +1,7 @@
-export class App { 
+export class App {
+    a: number;
 
-    constructor() {
-
+    constructor(a: number) {
+        this.a = a;
     }
 }
