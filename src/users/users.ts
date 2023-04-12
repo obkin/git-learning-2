@@ -10,6 +10,10 @@ export class App {
     }
 
     newFunc2() {
-        
+
+    }
+
+    newFunc3() {
+
     }
 }
